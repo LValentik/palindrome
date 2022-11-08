@@ -1,0 +1,11 @@
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\obj\Debug\netcoreapp2.1\palindrome.csprojAssemblyReference.cache
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\obj\Debug\netcoreapp2.1\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\obj\Debug\netcoreapp2.1\palindrome.AssemblyInfoInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\obj\Debug\netcoreapp2.1\palindrome.AssemblyInfo.cs
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\bin\Debug\netcoreapp2.1\palindrome.deps.json
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\bin\Debug\netcoreapp2.1\palindrome.runtimeconfig.json
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\bin\Debug\netcoreapp2.1\palindrome.runtimeconfig.dev.json
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\bin\Debug\netcoreapp2.1\palindrome.dll
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\bin\Debug\netcoreapp2.1\palindrome.pdb
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\obj\Debug\netcoreapp2.1\palindrome.dll
+C:\Users\Valentik.Lu.2022\source\repos\palindrome\palindrome\obj\Debug\netcoreapp2.1\palindrome.pdb
